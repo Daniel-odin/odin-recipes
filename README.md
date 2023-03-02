@@ -1,3 +1,6 @@
 # odin-recipes
+this project is to test the
+basic html functions:
 
-hello Odin!
+- <a href>
+- <image>
